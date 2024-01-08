@@ -7,3 +7,4 @@
 3. У меня есть собака, мопс
 4. Люблю чай 
 
+![img1](https://github.com/Shhagi/about-me-2/assets/108814727/c9752719-0a4f-478a-9848-ffbbcf562162)
